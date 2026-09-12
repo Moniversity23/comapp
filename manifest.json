@@ -1,0 +1,15 @@
+{
+  "name": "Ledger — Comapp",
+  "short_name": "Ledger",
+  "start_url": "/comapp/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/comapp/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
